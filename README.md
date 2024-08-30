@@ -3,13 +3,13 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/balram-shukla-3189b6269/?originalSubdomain=in" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/mr.balramshukla" target="_blank">
+  <a href="https://www.instagram.com/prankur.here_18" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://t.me//balramshukla" target="_blank">
+  <a href="https://t.me//prankur0003" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">👋 Hi there! I'm Balram Shukla, a dedicated developer and technology enthusiast. I specialize in solving data structures and algorithms (DSA) problems and am actively working on developing system application and web application.<br><br> <h3>🔹 What I Do:</h3>Tackle complex DSA challenges and find elegant solutions.<br>Develop and enhance system software with a focus on performance and efficiency.<br>Create engaging and functional web applications using HTML, CSS, and JavaScript.<br><br> <h3>🔹 Current Projects:</h3>Developing a fully functional ATM machine interface using Java<br>Building a personal portfolio to showcase my projects.<br>Working on a project of developing a CRM.<br><br> <h3>🔹 Skills:</h3>Java<br>HTML/CSS<br>JavaScript<br>Problem Solving<br>Data Structures & Algorithms<br>System Software Development<br><br>Feel free to explore my repositories and connect with me! <br> <br></p>
+<p align="left">👋 Hi there! I'm Prankur Pthak, a dedicated developer and technology enthusiast. I specialize in solving data structures and algorithms (DSA) problems and am actively working on developing system application and web application.<br><br> <h3>🔹 What I Do:</h3>Tackle complex DSA challenges and find elegant solutions.<br>Develop and enhance system software with a focus on performance and efficiency.<br>Create engaging and functional web applications using HTML, CSS, and JavaScript.<br><br> <h3>🔹 Current Projects:</h3>Developing a fully functional ATM machine interface using Java<br>Building a personal portfolio to showcase my projects.<br>Working on a project of developing a CRM.<br><br> <h3>🔹 Skills:</h3>Java<br>HTML/CSS<br>JavaScript<br>Problem Solving<br>Data Structures & Algorithms<br>System Software Development<br><br>Feel free to explore my repositories and connect with me! <br> <br></p>
 
 ###
 
